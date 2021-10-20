@@ -41,11 +41,11 @@ The user should be able to:
 
 
 ## Technologies 
-[MongoDB documentation on the $addFields](https://docs.mongodb.com/manual/reference/operator/aggregation/addFields/)
+[MongoDB on the $addFields](https://docs.mongodb.com/manual/reference/operator/aggregation/addFields/)
 
-[MongoDB documentation on the $sum operator](https://docs.mongodb.com/manual/reference/operator/aggregation/sum/)
+[MongoDB on the $sum operator](https://docs.mongodb.com/manual/reference/operator/aggregation/sum/)
 
-[Mongoose documentation on aggregate functions](https://mongoosejs.com/docs/api.html#aggregate_Aggregate)
+[Mongoose on aggregate functions](https://mongoosejs.com/docs/api.html#aggregate_Aggregate)
 
 
 
