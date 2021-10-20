@@ -28,7 +28,7 @@ router.put('/:_id', ({ params, body }, res) =>
     .catch((err) => res.status(400).json(err))
 );
 
-//set duration to selected workout
+//Get workout on range
 router.get('/range', (req, res) =>
   Workout.aggregate(
     [
