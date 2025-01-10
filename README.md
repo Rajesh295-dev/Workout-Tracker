@@ -1,4 +1,4 @@
-# noSQL: Workout Tracker
+# NoSQL: Workout Tracker
 
 It is a react base application which is use to keep track the exercise. User can upload the name, type, weight, sets, reps, and duration of workout which will be able to view, create, and track their daily workouts. It is created with Mongo database including Mongoose schema and handle routes with Express. This app will help the user to reach their fitness goals more quickly when they track their workout results.
 
